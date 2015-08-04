@@ -1,0 +1,53 @@
+.tiles-container {
+	margin: 0 -50px 0 -50px;
+}
+
+.tile {
+	height: 263px;
+	/*padding: 15px;*/
+	/*margin: 0 -15px 0 -15px;*/
+}
+
+.marquee {
+	background-color: #5EC1C6;
+	height: 362px;
+}
+
+.marquee-small {
+	background-color: #FBB9A3;
+	height: 362px;
+}
+
+.tile-post {
+	background-color: #EFF0F3;
+}
+
+.tile-topic-1 {
+	background-color: #5EC1C6;
+}
+
+.tile-topic-2 {
+	background-color: #E07855;
+}
+
+.tile-news-1 {
+	background-color: #3D3D3D;
+}
+
+.tile-playing {
+	background-color: #FBB9A3;
+}
+
+.tile-grad {
+	background: -webkit-linear-gradient(left top, #FDB913 , #E07855); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #FDB913 , #E07855); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #FDB913 , #E07855); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom left, #FDB913 , #E07855); /* Standard syntax */
+}
+
+.tile-yellow {
+	background-color: #FDB913;
+}
+
+
+
